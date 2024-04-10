@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Figma-Animate/static/css/main.344f7a46.css",
+    "main.js": "/React-Figma-Animate/static/js/main.413229ad.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-Figma-Animate/static/js/787.28cb0dcd.chunk.js",
+    "static/media/aboutFigma03.gif": "/React-Figma-Animate/static/media/aboutFigma03.41de07c5909a9b9602bd.gif",
+    "static/media/aboutFigma02.webp": "/React-Figma-Animate/static/media/aboutFigma02.f8000749de8ea8b50987.webp",
+    "static/media/phototype02.mp4": "/React-Figma-Animate/static/media/phototype02.ae444de9ea83438def66.mp4",
+    "static/media/smartAnimDemo.png": "/React-Figma-Animate/static/media/smartAnimDemo.3b34b07da0bf162e3784.png",
+    "static/media/whatLottie01.png": "/React-Figma-Animate/static/media/whatLottie01.51b7421b2e3b78f2566c.png",
+    "static/media/aboutFigma01.png": "/React-Figma-Animate/static/media/aboutFigma01.1b892e975a6cf891d23e.png",
+    "static/media/about.png": "/React-Figma-Animate/static/media/about.21aa30f5b4e753d5116c.png",
+    "static/media/importAnim.png": "/React-Figma-Animate/static/media/importAnim.0009e0cc161ef8c7a6e0.png",
+    "static/media/aboutFrame03.png": "/React-Figma-Animate/static/media/aboutFrame03.4d28469e87f5fffa5403.png",
+    "static/media/aboutFrame02.png": "/React-Figma-Animate/static/media/aboutFrame02.b63920cea799f562a5e6.png",
+    "static/media/aboutFigma02.png": "/React-Figma-Animate/static/media/aboutFigma02.e455c8f5b6ea25a26930.png",
+    "static/media/whatLottie02.png": "/React-Figma-Animate/static/media/whatLottie02.a33afb474df63e6f8f15.png",
+    "static/media/lottieFiles.png": "/React-Figma-Animate/static/media/lottieFiles.6724105ba4de2d586c10.png",
+    "static/media/smartAnim.png": "/React-Figma-Animate/static/media/smartAnim.bf2085ed56ffcbed243c.png",
+    "static/media/aboutFrame01.png": "/React-Figma-Animate/static/media/aboutFrame01.f3e2b1efc29c666eeb49.png",
+    "index.html": "/React-Figma-Animate/index.html",
+    "main.344f7a46.css.map": "/React-Figma-Animate/static/css/main.344f7a46.css.map",
+    "main.413229ad.js.map": "/React-Figma-Animate/static/js/main.413229ad.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-Figma-Animate/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.344f7a46.css",
+    "static/js/main.413229ad.js"
+  ]
+}
