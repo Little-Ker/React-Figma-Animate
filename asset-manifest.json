@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Figma-Animate/static/css/main.a89e1863.css",
-    "main.js": "/React-Figma-Animate/static/js/main.53e3ac3b.js",
+    "main.js": "/React-Figma-Animate/static/js/main.c596f3cd.js",
     "static/js/787.28cb0dcd.chunk.js": "/React-Figma-Animate/static/js/787.28cb0dcd.chunk.js",
     "static/media/aboutFigma03.gif": "/React-Figma-Animate/static/media/aboutFigma03.41de07c5909a9b9602bd.gif",
     "static/media/aboutFigma02.webp": "/React-Figma-Animate/static/media/aboutFigma02.f8000749de8ea8b50987.webp",
@@ -20,11 +20,11 @@
     "static/media/aboutFrame01.png": "/React-Figma-Animate/static/media/aboutFrame01.f3e2b1efc29c666eeb49.png",
     "index.html": "/React-Figma-Animate/index.html",
     "main.a89e1863.css.map": "/React-Figma-Animate/static/css/main.a89e1863.css.map",
-    "main.53e3ac3b.js.map": "/React-Figma-Animate/static/js/main.53e3ac3b.js.map",
+    "main.c596f3cd.js.map": "/React-Figma-Animate/static/js/main.c596f3cd.js.map",
     "787.28cb0dcd.chunk.js.map": "/React-Figma-Animate/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a89e1863.css",
-    "static/js/main.53e3ac3b.js"
+    "static/js/main.c596f3cd.js"
   ]
 }
