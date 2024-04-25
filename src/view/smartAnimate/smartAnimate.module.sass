@@ -1,0 +1,37 @@
+.root
+  position: relative
+  display: flex
+  .img, .textBox
+    width: 50%
+    height: 100vh
+  .img
+    position: relative
+    display: flex
+    justify-content: center
+    align-items: center
+    .imgDecorate
+      position: absolute
+      width: 70%
+      box-shadow: 10px 10px 0 #3b342b
+      border-radius: 0.5rem
+      // opacity: 0
+      transition: .3s
+      &.showImg
+  .textBox
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+    margin-left: -3rem
+    margin-top: -1rem
+    .title
+      font-size: 54px
+      color: #977D5C
+      margin-bottom: 3rem
+      font-weight: 700
+    .text
+      color: #fff
+      font-size: 40px
+      text-align: left
+      width: 70%
+      line-height: 1.5
