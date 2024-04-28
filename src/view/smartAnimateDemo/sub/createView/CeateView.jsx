@@ -23,7 +23,7 @@ export default function DemoView(props) {
         open={open}
         setOpen={setOpen}
       >
-        <iframe width="1200" height="650" src="https://www.youtube.com/embed/QR4eRpDoH1w?si=lQfvM5E-Gtof0X5H" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        <iframe width="1200" height="650" src="https://www.youtube.com/embed/ZnUZmuHBups?si=8sICG8gwtGRnGWLc" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
       </Dialog>
     </div>
   )
